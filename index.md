@@ -23,10 +23,14 @@ We have a Voron 2.4r2, which has a print volume of 300x300x300mm, an E3D Rapidch
 - 0.6mm brass, high flow
 
 
-{: .callout-Warning }
+# Operational Guide
+Below is a video of the printing process from start to finish. This video assumes you have already downloaded and configured SuperSlicer with the custom slicing profiles. It should be watched before an in-person demo, or as a refresher before you print.
 
-**Note:** This is a note callout.
-
+<div style="text-align: center;">
+  <figure>
+      <img src="media/voron_operational_video_lowQuality.mp4" alt="Voron Operational Video">
+  </figure>
+</div>
 
 
 Correspondence: allison [.] a [@] northeastern [.] edu
