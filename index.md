@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Voron"
+# description: "Voron"
 permalink: /
 ---
 
@@ -26,11 +26,6 @@ We have a Voron 2.4r2, which has a print volume of 300x300x300mm, an E3D Rapidch
 # Operational Guide
 Below is a video of the printing process from start to finish. This video assumes you have already downloaded and configured SuperSlicer with the custom slicing profiles. It should be watched before an in-person demo, or as a refresher before you print.
 
-<div style="text-align: center;">
-  <figure>
-      <img src="media/voron_operational_video_lowQuality.mp4" alt="Voron Operational Video">
-  </figure>
-</div>
 
 
 Correspondence: allison [.] a [@] northeastern [.] edu
